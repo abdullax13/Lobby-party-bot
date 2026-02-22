@@ -1,0 +1,11 @@
+{
+  "setup": {
+    "guildId": "",
+    "channelId": "",
+    "messageId": ""
+  },
+  "lobbies": {
+    "MLBB": [],
+    "CODM": []
+  }
+}
